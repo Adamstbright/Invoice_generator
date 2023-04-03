@@ -5,6 +5,12 @@ Invoice generato app/.idea/inspectionProfiles/profiles_settings.xml
 Invoice generato app/.idea/misc.xml
 Invoice generato app/.idea/modules.xml
 Invoice generato app/.idea/vcs.xml
-Invoice generato app/10001-2023.1.18.xlsx
-Invoice generato app/10002-2023.1.18.xlsx
+Invoice generato app/invoices/10001-2023.1.18.xlsx
+Invoice generato app/invoices/10002-2023.1.18.xlsx
 *.xlsx
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/Invoice_generator.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
