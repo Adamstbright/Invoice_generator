@@ -14,3 +14,7 @@ Invoice generato app/invoices/10002-2023.1.18.xlsx
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+.idea
+.venv
+.gitattributes
+
